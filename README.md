@@ -6,6 +6,8 @@ Find your locations and saved the search history
 
 1. Download or clone the repository.
 2. Replace `${this.myApiKey}` with the API Key. The API Key will be provided seperately by request, or you can apply a free one through [Google Console Platform](https://console.cloud.google.com/)
+3. Open the terminal and type `npm run dev`.
+4. Click on the localhost link shown in the terminal.
 
 ## Completed Tasks
 
