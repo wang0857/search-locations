@@ -2,6 +2,11 @@
 
 Find your locations and saved the search history
 
+## How to Use
+
+1. Download or clone the repository.
+2. Replace `${this.myApiKey}` with the API Key. The API Key will be provided seperately by request, or you can apply a free one through [Google Console Platform](https://console.cloud.google.com/)
+
 ## Completed Tasks
 
 - [x] A button to allow users to acquire their current location from their browser.
